@@ -1,0 +1,16 @@
+{
+    "name": "php-apps/practica2",
+    "description": "A simple PHP application.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "edev0x"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "require": {
+        "monolog/monolog": "^3.8"
+    }
+}

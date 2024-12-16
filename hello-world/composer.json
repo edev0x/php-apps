@@ -1,0 +1,13 @@
+{
+    "name": "php-apps/hello-world",
+    "description": "A simple Hello World PHP application.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "edev0x"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
